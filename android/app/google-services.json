@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220278959858",
+    "firebase_url": "https://pushnotify-28fae.firebaseio.com",
+    "project_id": "pushnotify-28fae",
+    "storage_bucket": "pushnotify-28fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220278959858:android:9c9f37be44f0ca5b422a6b",
+        "android_client_info": {
+          "package_name": "com.axactstudios.pushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220278959858-qbog4v72cnle33t4t12pciqu2dtl5jvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrgGAs1DdZXWtvcbT5F8YOEd5JS8BM_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220278959858-qbog4v72cnle33t4t12pciqu2dtl5jvh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220278959858-10ut7umdoroel6pdeic0r68cdm6vbjlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.axactstudios.pushnotify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
